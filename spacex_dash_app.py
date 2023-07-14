@@ -1,3 +1,5 @@
+Note: I cannot upload the piechart due to technical issues. However, it is in the final presentation
+
 # Import required libraries
 import pandas as pd
 import dash
